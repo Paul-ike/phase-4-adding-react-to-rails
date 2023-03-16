@@ -5,8 +5,7 @@
 - Use `create-react-app` to generate a new React application within a Rails
   project
 - Proxy requests from React to Rails in development
-- Use the `foreman`
-  gem to run React and Rails together
+- Use the `foreman` gem to run React and Rails together
 
 ## Introduction
 
